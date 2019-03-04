@@ -1,1 +1,1 @@
-pingsoft_organilog
+pingsoft-organilog
